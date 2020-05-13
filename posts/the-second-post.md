@@ -1,8 +1,11 @@
 ---
-title: 'My second post'
+title: My second post
 date: 2020-05-13T10:49:17.216Z
-description: 'My second entry'
-author: 'Yeong Jong Lim'
+author: Yeong Jong Lim
+description: My second entry
 ---
 # My second post
+
 This is even better!
+
+This will still work of course!
